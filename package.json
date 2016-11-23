@@ -1,0 +1,15 @@
+{
+  "name": "node-dart-sdk",
+  "version": "0.0.1",
+  "description": "The dart sdk so that it can be added to package.json",
+  "main": "dart_sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-dart-sdk"
+  },
+  "author": "",
+  "license": "ISC"
+}
